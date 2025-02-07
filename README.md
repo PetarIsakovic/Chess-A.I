@@ -5,7 +5,7 @@ I've always been fascinated by chess and the challenge of creating an AI opponen
 ### **What it does**  
 Chess AI is a **Java-based chess game** with an interactive **graphical user interface (GUI)** that allows players to compete against a bot. The game features **legal move validation, turn-based logic, and piece interaction**, ensuring smooth and rule-compliant gameplay. While the AI is not fully optimized yet, the bot currently makes **random moves**, laying the foundation for future improvements. The project aims to eventually include **strategic move selection** using AI algorithms like **minimax with alpha-beta pruning**.  
 
-### **How we built it**  
+### **How I built it**  
 The project was built using **Java, Swing, and AWT** for the GUI, while **JUnit** was used for testing and validating game logic. The **object-oriented design** follows a structured approach where all chess pieces inherit from a **base class**, allowing for modular and reusable code. Each piece follows standard chess rules, with move validation ensuring fair play. The game also includes **event handling** for player interactions, making the board responsive to clicks and move selections.  
 
 ### **Challenges I ran into**  
